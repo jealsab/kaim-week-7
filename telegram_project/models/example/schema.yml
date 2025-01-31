@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: raw_data
+    description: "Raw data from the cleaned_data table."
+    columns:
+      - name: message_id
+        tests:
+          - unique
+          - not_null
+      - name: date
+        tests:
+          - not_null
+  - name: transformed_data
+    description: "Transformed data from raw_data."
+    columns:
+      - name: transformed_date
+        tests:
+          - not_null
