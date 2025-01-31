@@ -1,0 +1,206 @@
+2025-01-31 14:34:16,112 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-31 14:34:16,249 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-31 14:34:17,277 - INFO - Scraping https://t.me/lobelia4cosmetics...
+2025-01-31 14:34:17,899 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:19,471 - INFO - Downloaded: images\photo_2025-01-31_14-34-17.jpg
+2025-01-31 14:34:19,474 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:20,042 - INFO - Downloaded: images\photo_2025-01-31_14-34-19.jpg
+2025-01-31 14:34:20,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:20,736 - INFO - Downloaded: images\photo_2025-01-31_14-34-20.jpg
+2025-01-31 14:34:20,749 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:21,177 - INFO - Downloaded: images\photo_2025-01-31_14-34-20 (1).jpg
+2025-01-31 14:34:21,189 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:21,992 - INFO - Downloaded: images\photo_2025-01-31_14-34-21.jpg
+2025-01-31 14:34:22,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:22,454 - INFO - Downloaded: images\photo_2025-01-31_14-34-22.jpg
+2025-01-31 14:34:22,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:23,229 - INFO - Downloaded: images\photo_2025-01-31_14-34-22 (1).jpg
+2025-01-31 14:34:23,243 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:24,121 - INFO - Downloaded: images\photo_2025-01-31_14-34-23.jpg
+2025-01-31 14:34:24,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:24,791 - INFO - Downloaded: images\photo_2025-01-31_14-34-24.jpg
+2025-01-31 14:34:24,804 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:27,936 - INFO - Downloaded: images\photo_2025-01-31_14-34-24 (1).jpg
+2025-01-31 14:34:27,949 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:28,834 - INFO - Downloaded: images\photo_2025-01-31_14-34-27.jpg
+2025-01-31 14:34:28,853 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:29,169 - INFO - Downloaded: images\photo_2025-01-31_14-34-28.jpg
+2025-01-31 14:34:29,185 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:29,447 - INFO - Downloaded: images\photo_2025-01-31_14-34-29.jpg
+2025-01-31 14:34:29,462 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:30,082 - INFO - Downloaded: images\photo_2025-01-31_14-34-29 (1).jpg
+2025-01-31 14:34:30,097 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:30,805 - INFO - Downloaded: images\photo_2025-01-31_14-34-30.jpg
+2025-01-31 14:34:30,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:31,524 - INFO - Downloaded: images\photo_2025-01-31_14-34-30 (1).jpg
+2025-01-31 14:34:31,541 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:33,208 - INFO - Downloaded: images\photo_2025-01-31_14-34-31.jpg
+2025-01-31 14:34:33,227 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:33,706 - INFO - Downloaded: images\photo_2025-01-31_14-34-33.jpg
+2025-01-31 14:34:33,720 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:34,220 - INFO - Downloaded: images\photo_2025-01-31_14-34-33 (1).jpg
+2025-01-31 14:34:34,237 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:34,570 - INFO - Downloaded: images\photo_2025-01-31_14-34-34.jpg
+2025-01-31 14:34:34,592 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:35,679 - INFO - Downloaded: images\photo_2025-01-31_14-34-34 (1).jpg
+2025-01-31 14:34:35,702 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:36,179 - INFO - Downloaded: images\photo_2025-01-31_14-34-35.jpg
+2025-01-31 14:34:36,193 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:38,010 - INFO - Downloaded: images\photo_2025-01-31_14-34-36.jpg
+2025-01-31 14:34:38,027 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:38,544 - INFO - Downloaded: images\photo_2025-01-31_14-34-38.jpg
+2025-01-31 14:34:38,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:39,121 - INFO - Downloaded: images\photo_2025-01-31_14-34-38 (1).jpg
+2025-01-31 14:34:39,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:39,810 - INFO - Downloaded: images\photo_2025-01-31_14-34-39.jpg
+2025-01-31 14:34:39,828 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:40,124 - INFO - Downloaded: images\photo_2025-01-31_14-34-39 (1).jpg
+2025-01-31 14:34:40,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:41,212 - INFO - Downloaded: images\photo_2025-01-31_14-34-40.jpg
+2025-01-31 14:34:41,231 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:42,016 - INFO - Downloaded: images\photo_2025-01-31_14-34-41.jpg
+2025-01-31 14:34:42,032 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:42,894 - INFO - Downloaded: images\photo_2025-01-31_14-34-42.jpg
+2025-01-31 14:34:42,910 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:44,181 - INFO - Downloaded: images\photo_2025-01-31_14-34-42 (1).jpg
+2025-01-31 14:34:44,200 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:44,749 - INFO - Downloaded: images\photo_2025-01-31_14-34-44.jpg
+2025-01-31 14:34:44,768 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:46,102 - INFO - Downloaded: images\photo_2025-01-31_14-34-44 (1).jpg
+2025-01-31 14:34:46,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:47,344 - INFO - Downloaded: images\photo_2025-01-31_14-34-46.jpg
+2025-01-31 14:34:47,366 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:47,894 - INFO - Downloaded: images\photo_2025-01-31_14-34-47.jpg
+2025-01-31 14:34:47,911 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:49,017 - INFO - Downloaded: images\photo_2025-01-31_14-34-47 (1).jpg
+2025-01-31 14:34:49,040 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:50,586 - INFO - Downloaded: images\photo_2025-01-31_14-34-49.jpg
+2025-01-31 14:34:50,600 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:50,989 - INFO - Downloaded: images\photo_2025-01-31_14-34-50.jpg
+2025-01-31 14:34:51,003 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:51,363 - INFO - Downloaded: images\photo_2025-01-31_14-34-51.jpg
+2025-01-31 14:34:51,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:52,066 - INFO - Downloaded: images\photo_2025-01-31_14-34-51 (1).jpg
+2025-01-31 14:34:52,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:52,634 - INFO - Downloaded: images\photo_2025-01-31_14-34-52.jpg
+2025-01-31 14:34:52,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:53,236 - INFO - Downloaded: images\photo_2025-01-31_14-34-52 (1).jpg
+2025-01-31 14:34:53,254 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:53,606 - INFO - Downloaded: images\photo_2025-01-31_14-34-53.jpg
+2025-01-31 14:34:53,622 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:54,819 - INFO - Downloaded: images\photo_2025-01-31_14-34-53 (1).jpg
+2025-01-31 14:34:54,834 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:56,122 - INFO - Downloaded: images\photo_2025-01-31_14-34-54.jpg
+2025-01-31 14:34:56,139 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:57,416 - INFO - Downloaded: images\photo_2025-01-31_14-34-56.jpg
+2025-01-31 14:34:57,434 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:57,845 - INFO - Downloaded: images\photo_2025-01-31_14-34-57.jpg
+2025-01-31 14:34:57,861 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:58,269 - INFO - Downloaded: images\photo_2025-01-31_14-34-57 (1).jpg
+2025-01-31 14:34:58,288 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:58,820 - INFO - Downloaded: images\photo_2025-01-31_14-34-58.jpg
+2025-01-31 14:34:58,834 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:59,192 - INFO - Downloaded: images\photo_2025-01-31_14-34-58 (1).jpg
+2025-01-31 14:34:59,210 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:34:59,917 - INFO - Downloaded: images\photo_2025-01-31_14-34-59.jpg
+2025-01-31 14:34:59,933 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:00,413 - INFO - Downloaded: images\photo_2025-01-31_14-34-59 (1).jpg
+2025-01-31 14:35:00,428 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:00,625 - INFO - Downloaded: images\photo_2025-01-31_14-35-00.jpg
+2025-01-31 14:35:00,640 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:01,062 - INFO - Downloaded: images\photo_2025-01-31_14-35-00 (1).jpg
+2025-01-31 14:35:01,077 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:01,349 - INFO - Downloaded: images\photo_2025-01-31_14-35-01.jpg
+2025-01-31 14:35:01,363 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:03,210 - INFO - Downloaded: images\photo_2025-01-31_14-35-01 (1).jpg
+2025-01-31 14:35:03,225 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:03,623 - INFO - Downloaded: images\photo_2025-01-31_14-35-03.jpg
+2025-01-31 14:35:03,637 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:04,857 - INFO - Downloaded: images\photo_2025-01-31_14-35-03 (1).jpg
+2025-01-31 14:35:04,881 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:05,116 - INFO - Downloaded: images\photo_2025-01-31_14-35-04.jpg
+2025-01-31 14:35:05,131 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:05,875 - INFO - Downloaded: images\photo_2025-01-31_14-35-05.jpg
+2025-01-31 14:35:05,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:06,784 - INFO - Downloaded: images\photo_2025-01-31_14-35-05 (1).jpg
+2025-01-31 14:35:06,799 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:07,268 - INFO - Downloaded: images\photo_2025-01-31_14-35-06.jpg
+2025-01-31 14:35:07,290 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:07,699 - INFO - Downloaded: images\photo_2025-01-31_14-35-07.jpg
+2025-01-31 14:35:07,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:08,613 - INFO - Downloaded: images\photo_2025-01-31_14-35-07 (1).jpg
+2025-01-31 14:35:08,635 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:11,155 - INFO - Downloaded: images\photo_2025-01-31_14-35-08.jpg
+2025-01-31 14:35:11,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:11,398 - INFO - Downloaded: images\photo_2025-01-31_14-35-11.jpg
+2025-01-31 14:35:11,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:11,858 - INFO - Downloaded: images\photo_2025-01-31_14-35-11 (1).jpg
+2025-01-31 14:35:11,872 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:13,233 - INFO - Downloaded: images\photo_2025-01-31_14-35-11 (2).jpg
+2025-01-31 14:35:13,251 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:13,850 - INFO - Downloaded: images\photo_2025-01-31_14-35-13.jpg
+2025-01-31 14:35:13,866 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:17,102 - INFO - Downloaded: images\photo_2025-01-31_14-35-13 (1).jpg
+2025-01-31 14:35:17,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:18,803 - INFO - Downloaded: images\photo_2025-01-31_14-35-17.jpg
+2025-01-31 14:35:18,818 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:20,299 - INFO - Downloaded: images\photo_2025-01-31_14-35-18.jpg
+2025-01-31 14:35:20,318 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:21,094 - INFO - Downloaded: images\photo_2025-01-31_14-35-20.jpg
+2025-01-31 14:35:21,113 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:21,458 - INFO - Downloaded: images\photo_2025-01-31_14-35-21.jpg
+2025-01-31 14:35:21,478 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:22,150 - INFO - Downloaded: images\photo_2025-01-31_14-35-21 (1).jpg
+2025-01-31 14:35:22,169 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:22,849 - INFO - Downloaded: images\photo_2025-01-31_14-35-22.jpg
+2025-01-31 14:35:22,866 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:23,252 - INFO - Downloaded: images\photo_2025-01-31_14-35-22 (1).jpg
+2025-01-31 14:35:23,267 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:24,905 - INFO - Downloaded: images\photo_2025-01-31_14-35-23.jpg
+2025-01-31 14:35:24,925 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:26,292 - INFO - Downloaded: images\photo_2025-01-31_14-35-24.jpg
+2025-01-31 14:35:26,310 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:27,710 - INFO - Downloaded: images\photo_2025-01-31_14-35-26.jpg
+2025-01-31 14:35:27,724 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:28,839 - INFO - Downloaded: images\photo_2025-01-31_14-35-27.jpg
+2025-01-31 14:35:28,859 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:29,586 - INFO - Downloaded: images\photo_2025-01-31_14-35-28.jpg
+2025-01-31 14:35:29,603 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:30,576 - INFO - Downloaded: images\photo_2025-01-31_14-35-29.jpg
+2025-01-31 14:35:30,592 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:31,004 - INFO - Downloaded: images\photo_2025-01-31_14-35-30.jpg
+2025-01-31 14:35:31,024 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:31,318 - INFO - Downloaded: images\photo_2025-01-31_14-35-31.jpg
+2025-01-31 14:35:31,337 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:32,206 - INFO - Downloaded: images\photo_2025-01-31_14-35-31 (1).jpg
+2025-01-31 14:35:32,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:33,745 - INFO - Downloaded: images\photo_2025-01-31_14-35-32.jpg
+2025-01-31 14:35:33,762 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:34,167 - INFO - Downloaded: images\photo_2025-01-31_14-35-33.jpg
+2025-01-31 14:35:34,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:35,755 - INFO - Downloaded: images\photo_2025-01-31_14-35-34.jpg
+2025-01-31 14:35:35,771 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:36,212 - INFO - Downloaded: images\photo_2025-01-31_14-35-35.jpg
+2025-01-31 14:35:36,228 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:36,879 - INFO - Downloaded: images\photo_2025-01-31_14-35-36.jpg
+2025-01-31 14:35:36,896 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:37,622 - INFO - Downloaded: images\photo_2025-01-31_14-35-36 (1).jpg
+2025-01-31 14:35:37,638 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:38,805 - INFO - Downloaded: images\photo_2025-01-31_14-35-37.jpg
+2025-01-31 14:35:38,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:39,746 - INFO - Downloaded: images\photo_2025-01-31_14-35-38.jpg
+2025-01-31 14:35:39,765 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:40,310 - INFO - Downloaded: images\photo_2025-01-31_14-35-39.jpg
+2025-01-31 14:35:40,328 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:41,563 - INFO - Downloaded: images\photo_2025-01-31_14-35-40.jpg
+2025-01-31 14:35:41,582 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:42,308 - INFO - Downloaded: images\photo_2025-01-31_14-35-41.jpg
+2025-01-31 14:35:42,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:43,498 - INFO - Downloaded: images\photo_2025-01-31_14-35-42.jpg
+2025-01-31 14:35:43,523 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:44,522 - INFO - Downloaded: images\photo_2025-01-31_14-35-43.jpg
+2025-01-31 14:35:44,540 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 14:35:45,087 - INFO - Downloaded: images\photo_2025-01-31_14-35-44.jpg
+2025-01-31 14:35:45,124 - INFO - Scraping https://t.me/chemed_channel...
+2025-01-31 14:35:45,273 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-31 14:35:45,275 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
